@@ -1,1 +1,2 @@
-# ALTER FACE, uma heurística de testes em aplicações Web Modernas API Rest
+# ALTER FACE
+Uma heurística de testes em aplicações Web Modernas API Rest
